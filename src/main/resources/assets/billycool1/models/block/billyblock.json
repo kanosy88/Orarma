@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "billycool1:blocks/billy_block",
+    "up": "billycool1:blocks/billy_block",
+    "north": "billycool1:blocks/billy_block",
+    "east": "billycool1:blocks/billy_block",
+    "south": "billycool1:blocks/billy_block",
+    "west": "billycool1:blocks/billy_block",
+    "particle": "billycool1:blocks/billy_block"
+  }
+}

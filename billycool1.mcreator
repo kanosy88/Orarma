@@ -1,0 +1,47 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Billypotion",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "billypotion"
+    },
+    {
+      "name": "Billyblock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "billyblock"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.billycool1.billyblock": "Billyblock"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "billycool1",
+    "modName": "billycool",
+    "version": "1.0.0",
+    "author": "billy, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "modElementsPackage": "net.mcreator.billycool",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
