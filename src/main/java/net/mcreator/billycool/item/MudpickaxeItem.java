@@ -34,7 +34,7 @@ public class MudpickaxeItem extends Billycool1ModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 3.5f;
+				return 1f;
 			}
 
 			public float getAttackDamage() {
@@ -42,7 +42,7 @@ public class MudpickaxeItem extends Billycool1ModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 1;
+				return 0;
 			}
 
 			public int getEnchantability() {
