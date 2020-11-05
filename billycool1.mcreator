@@ -1,31 +1,10 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Billypotion",
-      "type": "recipe",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "billypotion"
-    },
-    {
-      "name": "Billyblock",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "billyblock"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.billycool1.billyblock": "Billyblock"
-    }
+    "en_us": {}
   },
   "workspaceSettings": {
     "modid": "billycool1",
