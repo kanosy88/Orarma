@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "sans_titre-1",
+    "texture": "pelle",
     "customModelName": "Normal",
     "name": "Mudshovel",
     "specialInfo": [

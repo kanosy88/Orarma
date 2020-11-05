@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mudshovel"
+    },
+    {
+      "name": "Mudshovelr",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mudshovelr"
     }
   ],
   "variable_elements": [],
