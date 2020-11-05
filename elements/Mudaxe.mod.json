@@ -1,0 +1,32 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "sans_titre-1",
+    "customModelName": "Normal",
+    "name": "Mudaxe",
+    "specialInfo": [
+      "Ache en boue"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 15,
+    "damageVsEntity": 1.0,
+    "usageCount": 20,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
