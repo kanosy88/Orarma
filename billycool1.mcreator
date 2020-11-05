@@ -77,7 +77,7 @@
       "name": "Mudhoe",
       "type": "tool",
       "sortid": 6,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "mudhoe"
