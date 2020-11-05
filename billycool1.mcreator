@@ -81,6 +81,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mudhoe"
+    },
+    {
+      "name": "Mudhoer",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mudhoer"
     }
   ],
   "variable_elements": [],
