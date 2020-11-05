@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "sans_titre-1",
+    "texture": "chez_pas.txt",
     "customModelName": "Normal",
     "name": "Mudsword",
     "specialInfo": [

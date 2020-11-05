@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mudaxer"
+    },
+    {
+      "name": "Mudswordr",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mudswordr"
     }
   ],
   "variable_elements": [],
