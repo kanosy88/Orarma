@@ -9,6 +9,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mudpickaxe"
+    },
+    {
+      "name": "Mudpickacer",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mudpickacer"
     }
   ],
   "variable_elements": [],
