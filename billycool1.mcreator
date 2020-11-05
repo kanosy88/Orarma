@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mudswordr"
+    },
+    {
+      "name": "Mudshovel",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mudshovel"
     }
   ],
   "variable_elements": [],
@@ -62,6 +71,7 @@
     "en_us": {
       "item.billycool1.mudaxe": "Mudaxe",
       "item.billycool1.mudsword": "Mudsword",
+      "item.billycool1.mudshovel": "Mudshovel",
       "item.billycool1.mudpickaxe": "Pioche en boue"
     }
   },
